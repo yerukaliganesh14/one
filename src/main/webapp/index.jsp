@@ -25,7 +25,7 @@
         body {
             font-family: 'Inter', sans-serif;
             color: var(--dark);
-            background-color: green;
+            background-color: black;
             line-height: 1.6;
         }
 
